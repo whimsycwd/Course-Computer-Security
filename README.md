@@ -21,5 +21,17 @@ Project 1-1
     
     DesDemo.java
     简单的Swing的图形化界面
+    
+    
+Project 1-2
 
+    Project1-2：编程实现128bit的RSA(包括素数和密钥对产生),实现传送DES加密算法所要用的密钥，
+    并与DES算法一起形成传送DES加密算法，然后用DES加密算法加密的完整体系。
+    
+    RSA.java
+    RSA加密
+    
+    DesWithRSADemo.java
+    简单的Swing图形化界面,Des的主密钥经过RSA加密。
+    
 
